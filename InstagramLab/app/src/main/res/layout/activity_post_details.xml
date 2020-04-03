@@ -86,9 +86,9 @@
         android:layout_width="25dp"
         android:layout_height="25dp"
         android:layout_marginTop="10dp"
-        android:layout_marginLeft="295dp"
+        android:layout_marginRight="10dp"
         app:layout_constraintTop_toBottomOf="@+id/photo"
-        app:layout_constraintLeft_toLeftOf="@+id/send"
+        app:layout_constraintRight_toRightOf="parent"
         android:src="@drawable/saves"/>
 
 
